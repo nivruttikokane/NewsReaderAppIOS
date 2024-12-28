@@ -64,5 +64,7 @@ struct Constants{
     static let category = "category"
     static let apiKey = "apiKey"
     
+    
+    
 }
 
