@@ -63,7 +63,6 @@ struct Constants{
     //EndPoint
     static let category = "category"
     static let apiKey = "apiKey"
-    jbhghg
     
     
 }
